@@ -79,11 +79,13 @@
                     @endauth
                 </div>
             @endif
-
+            
             <div class="content">
+                <font color="white">
                 <div class="title m-b-md">
                     Foro Virtual
                 </div>
+                7<font>
                 <br>
                 <br>
                 <br>
@@ -91,13 +93,13 @@
                 <br>
                 <!--<img src="../public/imagenes/foro.jpg">-->
 
-                <div class="links">
+                <!--<div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
-                </div>
+                </div>-->
             </div>
         </div>
     </body>
